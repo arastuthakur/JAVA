@@ -321,9 +321,13 @@ Oracle
 No SQL Databases
 MongoDB
 Cassandra
+
 **Testing Java Application**
+
 Check out the JUnit framework and Mokito for unit testing in Java. As a Java programmer, you should have good knowledge of testing your core logic using the JUnit framework.
+
 **Commonly used libraries for Java development**
+
 It's also important for Java programmers to learn commonly used utility libraries for Java development.
 
 - Parsing libraries - Jackson, GSON
