@@ -3,9 +3,6 @@
 
 **ROADMAP**
 
-![Java_Roadmap_By_Ramesh_Java_Guides](https://user-images.githubusercontent.com/76399951/196046225-86109668-2c45-404d-8e98-69215c0e532c.png)
-
-
 ![1-dAQJ-UDP3altoQKThbQs_w](https://user-images.githubusercontent.com/76399951/196046185-e15e7e68-87de-49d1-aa24-ac6e129ec281.jpeg)
 
 **First Learn Java Language Basics**
@@ -280,4 +277,5 @@ It's also important for Java programmers to learn commonly used utility librarie
 - Logging libraries - Log4j
 - Apache Commons - Lang, IO
 
-![1_ALmMorDvjKwkeaJMUFXIxw](https://user-images.githubusercontent.com/76399951/196046532-9510b3d1-17bf-4477-b036-0999530f4700.png)
+![ST-java1_1x (3)_3](https://user-images.githubusercontent.com/76399951/196047328-dbaeca16-4072-4b5e-a6e7-72f561221427.png)
+
